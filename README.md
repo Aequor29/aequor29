@@ -1,4 +1,10 @@
 ## Hi there 👋
+This is Richard Hu
+- 🎓 I'm currently studying Computer Science at Rice University
+- ⚙️ I enjoy building websites and analyzing data
+- 🔭 I’m currently looking for Software Engineering Summer position for 2025
+- 📫 How to reach me: rihu2024@outlook.com
+
 
 <!--
 **Aequor29/aequor29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
